@@ -1,0 +1,5 @@
+{
+  "/index-onepage-dark/page": "app/index-onepage-dark/page.js",
+  "/page": "app/page.js",
+  "/index-onepage/page": "app/index-onepage/page.js"
+}

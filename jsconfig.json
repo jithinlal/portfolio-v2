@@ -1,8 +1,9 @@
 {
-  "compilerOptions": {
-    "paths": {
-      "@/*": ["./*"],
-      "@css/*": ["./public/css/*"]
-    }
-  }
+	"compilerOptions": {
+		"baseUrl": ".",
+		"paths": {
+			"@/*": ["./*"],
+			"@css/*": ["./public/css/*"]
+		}
+	}
 }

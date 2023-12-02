@@ -100,10 +100,11 @@ export const LanguagesSkills = () => {
 };
 export const CodingSkills = () => {
 	const skills = [
-		{ id: 1, title: 'WordPress', value: 90 },
-		{ id: 2, title: 'PHP / MYSQL', value: 75 },
-		{ id: 3, title: 'Angular / JavaScript', value: 85 },
-		{ id: 4, title: 'HTML / CSS', value: 95 },
+		{ id: 1, title: 'Golang', value: 90 },
+		{ id: 2, title: 'Database', value: 90 },
+		{ id: 3, title: 'JavaScript (NodeJs, ReactJs)', value: 95 },
+		{ id: 5, title: 'Docker/Kubernetes', value: 90 },
+		{ id: 6, title: 'Micro service architecture', value: 90 },
 	];
 	return (
 		<div className='section skills'>
@@ -147,28 +148,28 @@ export const Knowledge = () => {
 				<div className='skills list'>
 					<ul>
 						<li>
-							<div className='name'>Website hosting</div>
+							<div className='name'>Backend development</div>
 						</li>
 						<li>
-							<div className='name'>iOS and android apps</div>
+							<div className='name'>Micro service architecture</div>
 						</li>
 						<li>
-							<div className='name'>Create logo design</div>
+							<div className='name'>Front end skills</div>
 						</li>
 						<li>
-							<div className='name'>Design for print</div>
+							<div className='name'>Database design</div>
 						</li>
 						<li>
-							<div className='name'>Modern and mobile-ready</div>
+							<div className='name'>Cloud services</div>
 						</li>
 						<li>
-							<div className='name'>Advertising services include</div>
+							<div className='name'>CI/CD</div>
 						</li>
 						<li>
-							<div className='name'>Graphics and animations</div>
+							<div className='name'>Agile</div>
 						</li>
 						<li>
-							<div className='name'>Search engine marketing</div>
+							<div className='name'>AI</div>
 						</li>
 					</ul>
 				</div>

@@ -28,7 +28,7 @@ const Hero = ({ mouse }) => {
 			</div>
 			{mouse && (
 				<a href='#' className='mouse_btn'>
-					<span class='ion ion-mouse'></span>
+					<span className='ion ion-mouse'></span>
 				</a>
 			)}
 		</div>

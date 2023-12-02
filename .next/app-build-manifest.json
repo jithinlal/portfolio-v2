@@ -11,12 +11,6 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/index-onepage-dark/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/index-onepage-dark/page.css",
-      "static/chunks/app/index-onepage-dark/page.js"
-    ],
     "/index-onepage/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
